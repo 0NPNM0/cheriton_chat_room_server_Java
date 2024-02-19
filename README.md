@@ -4,6 +4,13 @@ Java聊天室
 
 当前项目为server端。
 
-![image](https://github.com/0NPNM0/cheriton_chat_room_server_Java/assets/98509588/da613277-2edd-44f8-ad5d-3514f04baca8)
+完成功能如下：
+1.用户登录
+2.用户注册
+3.添加好友
+4.同时和多个好友聊天
 
-![image](https://github.com/0NPNM0/cheriton_chat_room_server_Java/assets/98509588/fbbdf0af-74d7-4257-a07e-ce3f32c5254d)
+代码功能演示视频：
+
+https://github.com/0NPNM0/cheriton_chat_room_server_Java/assets/98509588/2c562492-a2d5-4159-adc5-a3339d9608dd
+
